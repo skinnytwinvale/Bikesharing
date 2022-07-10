@@ -19,6 +19,15 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 
 -Deliverable 3: Create a Story and Report for the Final Presentation
 
+## Results
+
+### Customers
+
+![name-of-you-image]https://github.com/skinnytwinvale/Bikesharing/blob/40200b1cd3dc1b432d1d8fb9103e65e871c041a5/images/Customers.png
+
+This chart shows us how much of our customers are subscribed and not subcribed. According to the data, 443,865 of our regular customers are not subscribed. While 1,900,359 of our customers that ride regularley are subscribed.
+
+
 
 
 
