@@ -5,7 +5,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
 
--Show the length of time that bikes are checked out for all riders and genders 
+-Show the length of time that bikes are checked out for all riders and genders  
 
 -Show the number of bike trips for all riders and genders for each hour of each day of the week 
 
