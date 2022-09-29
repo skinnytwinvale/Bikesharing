@@ -13,7 +13,7 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 
 -Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors. 
 
--Deliverable 1: Change Trip Duration to a Datetime Format
+-Deliverable 1: Change Trip Duration to a Datetime Format 
 
 -Deliverable 2: Create Visualizations for the Trip Analysis
 
