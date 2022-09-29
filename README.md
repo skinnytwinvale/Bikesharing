@@ -17,7 +17,7 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 
 -Deliverable 2: Create Visualizations for the Trip Analysis
 
--Deliverable 3: Create a Story and Report for the Final Presentation
+-Deliverable 3: Create a Story and Report for the Final Presentation 
 
 ## Results
 
